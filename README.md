@@ -15,18 +15,19 @@ El objetivo de este proyecto es desarrollar un Catálogo de Libros que ofrezca i
 <h3>Ejemplos prácticos</h3>
 
  📷Buscar Libros por Titulo  
-  
+  ![alt text]()
 📷Libros Buscados  
-  
+  ![alt text]()
 📷Autores buscados  
-  
+  ![alt text]()
 📷Buscar autores vivos por año  
-  
+  ![alt text]()
 📷Buscar Libros por idioma  
-  
+  ![alt text]()
 📷Top 10 Libros mas descargados  
-  
+  ![alt text]()
 📷Estadísticas
+![alt text]()
 
 ## <h2>🧰Tecnologías utilizadas</h2>  
 
