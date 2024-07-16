@@ -31,7 +31,7 @@ El objetivo de este proyecto es desarrollar un Catálogo de Libros que ofrezca i
 
 ## <h2>Configuración inicial</h2>
 
-Para conectar correctamente la aplicación a una base de datos, primero deben de rellenarse los siguiente campos con las variables adecuadas:
+Para conectar correctamente la aplicación a una base de datos, primero deben de rellenarse los siguiente campos de `application.properties` con las variables adecuadas:
 
 - `HOSTNAME`: nombre del servicio de hosteo
 - `USERNAME`: nombre de usuario 
