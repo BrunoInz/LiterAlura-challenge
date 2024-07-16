@@ -29,6 +29,16 @@ El objetivo de este proyecto es desarrollar un Catálogo de Libros que ofrezca i
 📷Estadísticas
 ![alt text](https://github.com/BrunoInz/LiterAlura-challenge/blob/main/images/estadisticas.png)
 
+## <h2>Configuración inicial</h2>
+
+Para conectar correctamente la aplicación a una base de datos, primero deben de rellenarse los siguiente campos con las variables adecuadas:
+
+- `HOSTNAME`: nombre del servicio de hosteo
+- `USERNAME`: nombre de usuario 
+- `PASSWORD`: contraseña de usuario
+
+![alt text](https://github.com/BrunoInz/LiterAlura-challenge/blob/main/images/cambios.png)
+
 ## <h2>🧰Tecnologías utilizadas</h2>  
 
 📌 Java 21  
