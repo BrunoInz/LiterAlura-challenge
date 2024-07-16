@@ -15,19 +15,19 @@ El objetivo de este proyecto es desarrollar un Catálogo de Libros que ofrezca i
 <h3>Ejemplos prácticos</h3>
 
  📷Buscar Libros por Titulo  
-  ![alt text]()
+  ![alt text](https://github.com/BrunoInz/LiterAlura-challenge/blob/main/images/buscar%20libros.png)
 📷Libros Buscados  
-  ![alt text]()
+  ![alt text](https://github.com/BrunoInz/LiterAlura-challenge/blob/main/images/libros%20buscados.png)
 📷Autores buscados  
-  ![alt text]()
+  ![alt text](https://github.com/BrunoInz/LiterAlura-challenge/blob/main/images/autores%20buscados.png)
 📷Buscar autores vivos por año  
-  ![alt text]()
+  ![alt text](https://github.com/BrunoInz/LiterAlura-challenge/blob/main/images/autores%20vivos.png)
 📷Buscar Libros por idioma  
-  ![alt text]()
+  ![alt text](https://github.com/BrunoInz/LiterAlura-challenge/blob/main/images/libros%20por%20idioma.png)
 📷Top 10 Libros mas descargados  
-  ![alt text]()
+  ![alt text](https://github.com/BrunoInz/LiterAlura-challenge/blob/main/images/top10.png)
 📷Estadísticas
-![alt text]()
+![alt text](https://github.com/BrunoInz/LiterAlura-challenge/blob/main/images/estadisticas.png)
 
 ## <h2>🧰Tecnologías utilizadas</h2>  
 
